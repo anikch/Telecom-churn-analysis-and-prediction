@@ -43,5 +43,5 @@ Customers usually do not decide to switch to another competitor instantly, but r
 - Followed by that, We used XGBoost Classifier and then perfomed hyperparameters tunning to tune our XGB Classifier model. Final Classification on testing dataset report after performing hyperparameters tunning is as below:
 ![image](https://user-images.githubusercontent.com/77941537/142938461-dadb5db6-a5ae-46de-b501-79c18d48ea34.png)
 
-
+## Feature importance:
 ![image](https://user-images.githubusercontent.com/77941537/142938608-1530c60e-e943-41d4-8c76-7dec94262a09.png)
